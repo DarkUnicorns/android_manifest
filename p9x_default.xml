@@ -94,13 +94,20 @@
 
   <!-- Packages -->
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="du" />
-  <project path="packages/apps/Changelog" name="android_packages_apps_Changelog" remote="du" />
+  <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" remote="dku" />
+  <project path="packages/apps/CalendarProvider" name="android_packages_apps_CalendarProvider" remote="dku" />
+  <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="dku" />
+  <project path="packages/apps/ContactsProvider" name="android_packages_apps_ContactsProvider" remote="dku" />
   <project path="packages/apps/CustomDoze" name="android_packages_apps_CustomDoze" remote="du" />
+  <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="dku" />
+  <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="dku" />
   <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="du" />
   <project path="packages/apps/DU-Tweaks" name="android_packages_apps_DU-Tweaks" remote="dku" />
   <project path="packages/apps/DU-Updater" name="android_packages_apps_DU-Updater" remote="du" />
   <project path="packages/apps/EmergencyInfo" name="android_packages_apps_EmergencyInfo" remote="du" />
+  <project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="dku" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="du" />
+  <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="dku" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="du" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="du" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="dku" />
